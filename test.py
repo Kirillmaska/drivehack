@@ -6,4 +6,5 @@ t1 = datetime.datetime.now().time()
 
 c = 0
 while c != 300:
-    print(get_type_structure('jpg', 'images/inv-000')
+    print(get_type_structure('jpg', 'images/inv-000'))
+    c += 1
